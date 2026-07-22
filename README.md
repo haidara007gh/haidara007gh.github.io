@@ -1,2 +1,2 @@
 # portfolio
-[See Portfolio](https://haidara007gh.github.io/portfolio/)
+[See Portfolio](https://haidara007gh.github.io)
